@@ -35,4 +35,4 @@ You can customize settings through the launcher interface.
 
 ## License
 
-MIT License 
+GNU General Public License V3
